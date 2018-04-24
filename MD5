@@ -1,0 +1,17 @@
+c76497d522446d5fa0c874c5aca63adb *DESCRIPTION
+25abd006298e5b98c461c544ed923641 *NAMESPACE
+0f9b1baeabb484f1d2749bad62679c4f *R/for_roxygen.R
+b45e2b2e39febbb5970cff1b7ce589ef *R/pmultinom.R
+9c9cea02665d81614f81535ea655a57e *README.md
+2f9e05c4a7f71c6c45dba9bdd937eabc *build/vignette.rds
+2c75b8caa948cd525a266ad4928bd75e *inst/doc/pmultinom.R
+286e4b74e08169a3cfa04a2ce476bccb *inst/doc/pmultinom.Rnw
+937592dd43169dbc78327d1020f4b67c *inst/doc/pmultinom.pdf
+79b00ea738dc0e92fc6f268052fd7423 *man/invert.pmultinom.Rd
+1e685c354717cc51426382cc17855481 *man/pmultinom.Rd
+583528e5d0c66318a355d7dc6c1a9cb5 *tests/testthat.R
+360488996d5e64e383d7629a40f494b8 *tests/testthat/cdf_cases.Rdata
+d499c795602297ba67dc48f23c963f31 *tests/testthat/test_invertpmultinom.R
+2d730a8c3597f87b2c4d3ca3a1cee327 *tests/testthat/test_pmultinom.R
+08d416a65bfa1211f8a523a74be6c602 *tests/testthat/upper_cases_for_invert_pmultinom.Rdata
+286e4b74e08169a3cfa04a2ce476bccb *vignettes/pmultinom.Rnw
